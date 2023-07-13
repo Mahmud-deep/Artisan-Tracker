@@ -31,6 +31,11 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 # Links
 
+https://github.com/Mahmud-deep/Artisan-Tracker
+
+https://mahmud-deep.github.io/Artisan-Tracker/
+
+
 # Review
 
 A walkthrough video demonstrating the functionality of the application.
